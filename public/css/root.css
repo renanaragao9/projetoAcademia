@@ -1,0 +1,71 @@
+
+/* Classes */
+
+.icon-home {
+    height: 42px;
+    width: 42px;
+}
+
+.p-text {
+    margin-bottom: -10px;
+    padding: 0 20px;
+    font-size: 25px;
+}
+
+.titulo-ficha {
+    font-size: 30px;
+    color: rgba(5, 5, 53, 0.781);
+    font-weight: bolder;
+}
+
+.span-title {
+    color: rgb(61, 61, 61);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.span-title-2 {
+    color: rgba(32, 31, 31, 0.911);
+}
+
+
+/* Indentificadores */
+
+#boas-vindas {
+    padding: 0 5px;
+}
+
+#criador {
+    font-size: 10px;
+    text-align: center;
+}
+
+#input-report {
+    height: 50px;
+}
+
+#label-exercicio {
+    font-size: 20px;
+}
+
+#teste {
+    font-size: 20px;
+}
+
+#text-i {
+    font-size: 25px;
+    padding: 10px;
+}
+
+
+#titulo-1 {
+    text-align: center;
+    font-size: 20px;
+  }
+
+#bem-vindo {
+    padding: 0 5px;
+}
+
+
+
